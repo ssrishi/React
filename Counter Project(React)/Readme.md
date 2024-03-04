@@ -1,3 +1,4 @@
-###This is a very small React Project <br>
+# Counter React Project
+
 In this project I learn why we need to learn hooks and use of hooks 
 
