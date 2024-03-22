@@ -1,6 +1,6 @@
-## bgColorChanger Project (React)
-### Project Live: [Link](https://bgcolorchangerreact.netlify.app/) 
-# Instructions For Mobile Users: Select Desktop site option as it is not responsive. 
+# bgColorChanger Project (React)
+## Project Live: [Link](https://bgcolorchangerreact.netlify.app/) 
+### Instructions For Mobile Users: Select Desktop site option as it is not responsive. 
 
 To you use the source code:  
 a) Create React App.  
