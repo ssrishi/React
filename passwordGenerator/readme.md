@@ -1,8 +1,7 @@
 # Password Generator
 
-![Password Generator](![image](https://github.com/ssrishi/React/assets/110768656/b261c054-f26f-4f29-99cd-bf2c99ac6eed)
-)
-)
+![Password Generator](https://github.com/ssrishi/React/assets/110768656/b261c054-f26f-4f29-99cd-bf2c99ac6eed)
+
 
 ## Overview
 
