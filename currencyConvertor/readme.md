@@ -1,7 +1,7 @@
 # Currency Converter
 
-![Currency Converter Preview]((https://github.com/ssrishi/React/assets/110768656/f91e020e-0e05-4943-a9ad-f6b1e15fddd8)
-)
+![Currency Converter Preview](https://github.com/ssrishi/React/assets/110768656/f91e020e-0e05-4943-a9ad-f6b1e15fddd8)
+
 
 ## Overview
 
