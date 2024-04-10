@@ -12,7 +12,7 @@ Responsive design for optimal viewing across devices.
 
 ### Installation:
 
-Clone the repository: git clone [repository URL]
+Clone the repository
 Navigate to the project directory: cd dynamic-web-app-react-router-dom
 Install dependencies: npm install
 Run the application: npm start
@@ -42,7 +42,7 @@ The project was built following tutorials and documentation provided by React.js
 Special thanks to the Hitesh Choudhary Sir GitHub API for providing access to repository data.
 
 ### Contact:
-For any inquiries or feedback, please contact [Your Name] via [email](ssrishi17@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/rishi-sharma-a6a187217/).
+For any inquiries or feedback, please connect on [LinkedIn](https://www.linkedin.com/in/rishi-sharma-a6a187217/).
 
 
 
